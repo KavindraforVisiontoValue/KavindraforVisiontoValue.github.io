@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light only;
+  --bg-canvas: #fafbff;
+  --bg-surface: #ffffff;
+  --bg-warm: #f8f7f4;
+  --bg-blue-tint: #eef3ff;
+  --bg-lavender-tint: #f2efff;
+  --text-heading: #18243b;
+  --text-body: #53627a;
+  --text-muted: #66758f;
+  --accent-primary: #315bff;
+  --accent-secondary: #8b9cff;
+  --border-hairline: #e1e7f0;
+  --font-display: 'Outfit', system-ui, -apple-system, sans-serif;
+  --font-body: 'Manrope', system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-body);
+    background-color: var(--bg-canvas);
+    color: var(--text-heading);
+    scroll-behavior: smooth;
+  }
+
+  body {
+    overflow-x: hidden;
+    background-color: var(--bg-canvas);
+    color: var(--text-heading);
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+  }
+
+  /* Ensure accessible focus-visible outlines across light surfaces */
+  a:focus-visible,
+  button:focus-visible {
+    outline: 2px solid var(--accent-primary);
+    outline-offset: 3px;
+  }
+}
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(18px) saturate(150%);
+  -webkit-backdrop-filter: blur(18px) saturate(150%);
+  border: 1px solid rgba(255, 255, 255, 0.88);
+  box-shadow:
+    0 12px 36px rgba(45, 65, 125, 0.07),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+
+.glass-panel-soft {
+  background: rgba(255, 255, 255, 0.56);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  border: 1px solid rgba(225, 231, 240, 0.85);
+  box-shadow:
+    0 8px 24px rgba(45, 65, 125, 0.05),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+.glass-nav {
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(20px) saturate(160%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%);
+  border: 1px solid rgba(225, 231, 240, 0.9);
+  box-shadow:
+    0 10px 32px rgba(24, 36, 59, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.95);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+@keyframes floatSlow {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(0, -10px, 0);
+  }
+}
+
+.animate-float-slow {
+  animation: floatSlow 7s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .animate-float-slow {
+    animation: none;
+  }
+}

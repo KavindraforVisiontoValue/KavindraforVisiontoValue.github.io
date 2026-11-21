@@ -1,0 +1,1771 @@
+# GOOGLE AI STUDIO — COMPLETE PORTFOLIO WEBSITE MASTER PROMPT
+## Kavindra Jayamal Diyagaha | Premium Light-Themed, Animation-Rich Professional Portfolio
+
+# 1. YOUR ROLE AND MISSION
+
+You are an award-winning creative director, senior UI/UX designer, motion design specialist, professional branding strategist, and expert front-end engineer.
+
+Your mission is to **design, develop, animate, test, refine, and deliver my complete professional portfolio website in Google AI Studio Build mode**.
+
+Do not stop at a concept, wireframe, prototype, or basic template.
+
+Build the entire functional website, including every section, all professional content, actual photographs, interactive animations, featured video, contact links, responsive layouts, accessibility, and final visual polish.
+
+## My identity
+
+**Name:** Kavindra Jayamal Diyagaha
+
+**Current Position:** Senior Business Analyst
+
+**Current Organisation:** iTechro
+
+**Location:** Sri Lanka
+
+**Contact Number:** +94 77 555 9579
+
+**Phone Link:** `tel:+94775559579`
+
+**LinkedIn:** https://www.linkedin.com/in/kavindra-diyagaha/
+
+**YouTube Promotional Video:** https://youtu.be/EaEtS289pCI
+
+## My primary professional positioning
+
+**Business-to-Technology Transformation Professional with strong experience across Business Analysis, Product Ownership, Project Delivery and Solution Consulting.**
+
+This is the central message and identity of my website.
+
+I do not want a portfolio that positions me exclusively as a Business Analyst, Product Owner, Project Manager, or consultant.
+
+My value comes from combining these capabilities to connect business challenges with practical technology solutions and coordinated delivery.
+
+The website should communicate that I understand business needs, analyse problems, define requirements, collaborate with technical teams on solutions, support product decisions, manage stakeholder expectations, contribute to delivery, and explain technology effectively.
+
+## What I want visitors to experience
+
+Within the first few seconds, visitors should recognise a confident, approachable, experienced technology professional.
+
+As they explore, the website should demonstrate my professional journey, broad capabilities, real projects, communication experience, technical understanding, and the human skills I bring to an AI-enabled world.
+
+The website should be a premium, highly animated personal brand experience rather than a conventional online CV.
+
+**Create the entire website in this one request.**
+
+Do not rely on a second prompt to finish the design, content, animations, photography, or final refinement.
+
+---
+
+# PART A — NON-NEGOTIABLE REQUIREMENTS
+
+# 2. STRICT LIGHT THEME
+
+**NOT DARK THEMED. JUST LIGHT THEME.**
+
+The complete website must use a premium LIGHT theme.
+
+Absolutely no predominantly dark sections.
+
+No black or charcoal hero background.
+
+No dark project showcase.
+
+No dark contact section.
+
+No dark footer.
+
+No dark-mode toggle.
+
+Do not automatically switch to dark mode based on system preferences.
+
+Use:
+
+- White and warm off-white backgrounds
+- Light blue and pale lavender sections
+- Sophisticated soft gradients
+- Frosted-glass white surfaces
+- Elegant shadows
+- Refined blue accent colours
+- Dark ink-coloured typography for readability
+- Generous white space
+- Beautiful bright editorial compositions
+
+The design must feel luxurious, futuristic, creative, clean, elegant, and professionally credible.
+
+---
+
+# 3. MAIN HERO HEADSHOT — MANDATORY
+
+**Use the attached photo `profile-pic (20)-1.png` as my main hero headshot.**
+
+This is a formal professional portrait of me wearing a suit and tie.
+
+It must be the primary and most prominent portrait in the hero section.
+
+Do not substitute another photograph.
+
+Do not replace it with a generated portrait, avatar, illustration, or stock photograph.
+
+Do not modify my facial identity.
+
+Do not distort my appearance or apply unrealistic beautification.
+
+Build an extraordinary premium hero composition around this actual photograph.
+
+Use:
+
+- Soft blue/lavender atmospheric gradients
+- Frosted-glass floating elements
+- Elegant portrait framing
+- Subtle animated geometric shapes
+- Refined lighting and shadows
+- Spring-based entrance animations
+- Carefully positioned typography
+
+The portrait must remain sharp, recognisable, and naturally proportioned.
+
+---
+
+# 4. USE AND DISPLAY ALL OTHER UPLOADED PHOTOGRAPHS
+
+I am providing several additional personal and professional photographs.
+
+**Every uploaded photograph must be incorporated into the website.**
+
+Do not ignore the remaining photographs or show only the hero image.
+
+Use the following asset allocation.
+
+| Photo | Intended placement |
+|---|---|
+| `profile-pic (20)-1.png` | Main hero headshot |
+| `Kavindra - Product Owner.jpg` | About Me / professional portrait |
+| `20250603_153725.jpg` | Editorial personal-story section |
+| `IMG-20240120-WA0000.jpg` | Speaking & Presentations |
+| `20240119_185617.jpg` | Business Presentations |
+| `Screenshot_20240123_211034_LinkedIn.jpg` | Product Demonstrations / In Action |
+| `MicrosoftTeams-image (6).jpg` | Knowledge Sharing |
+| `20231214_200551.jpg` | Professional Moments |
+| `tmp_368fad25-482e-4ece-bb85-52e33fad062f.jpeg` | Workshops / Knowledge Sharing |
+| `IMG-20240221-WA0003.jpg` | Professional Gallery / Group Photograph |
+
+Use real files, not generated alternatives.
+
+### Asset handling in Google AI Studio
+
+Inspect the actual files available to the Build project.
+
+Ensure that the images are physically included in the generated application's asset directory, such as `/public/images/` or another appropriate folder.
+
+Do not assume that attaching an image to a chat automatically makes it available at a website URL.
+
+If filenames contain spaces or special characters, you may create web-friendly copies, provided you maintain an exact mapping to the original filenames.
+
+Use correct image paths in the application and confirm that all photos render in the live preview.
+
+If an image is not accessible, report the specific missing asset. Do not pretend an image is integrated when the code only references a nonexistent file.
+
+### Photo presentation
+
+Create a visually impressive gallery using:
+
+- Premium editorial photography layouts
+- Responsive masonry or bento grids
+- Frosted-glass overlays
+- Animated image reveals
+- Smooth hover scaling
+- Spring-based image interactions
+- Lightbox viewing
+- Attractive responsive cropping
+- Subtle parallax
+- Elegant visual captions
+
+Use neutral descriptions where specific events have not been verified.
+
+For group photographs containing other people, include them in the preview but flag that permission should be checked before public publication.
+
+Never invent the names or roles of people appearing in photographs.
+
+---
+
+# 5. DISPLAY MY PHONE NUMBER
+
+My approved contact number is:
+
+**+94 77 555 9579**
+
+Make it clickable with:
+
+`tel:+94775559579`
+
+Show it in:
+
+1. The Contact section
+2. The footer
+3. A suitable professional contact details area
+
+Use attractive phone iconography and accessible clickable links.
+
+Ensure it works on mobile.
+
+My LinkedIn link must also be prominent:
+
+https://www.linkedin.com/in/kavindra-diyagaha/
+
+My CV also contains an email address, but do not publicly display it until I approve its publication.
+
+---
+
+# PART B — GOOGLE AI STUDIO IMPLEMENTATION
+
+# 6. TECHNOLOGY REQUIREMENTS
+
+Build this as a modern, polished, maintainable web application using Google AI Studio Build mode.
+
+Use an appropriate front-end stack, preferably:
+
+- React
+- TypeScript
+- CSS3
+- Tailwind CSS where useful
+- Motion for React for animation
+- Responsive Grid and Flexbox
+- Modern reusable components
+
+Use JavaScript/TypeScript only where it adds real value through interactivity, animation, navigation, and accessibility.
+
+I am not requesting AI chatbot functionality, a database, or an AI API integration.
+
+Do not add:
+
+- Unnecessary backend services
+- Firebase authentication
+- User accounts
+- Database storage
+- Gemini API calls
+- API keys
+- Chatbots
+- Admin dashboards
+- Unnecessary server-side functionality
+
+This is a public-facing professional portfolio.
+
+Keep the architecture lightweight and easy to maintain.
+
+### Suggested component structure
+
+Use reusable components for:
+
+- Navbar
+- Hero
+- AnimatedText
+- GlassCard
+- SectionHeading
+- About
+- ExpertiseGrid
+- AIValueNetwork
+- ExperienceTimeline
+- ProjectShowcase
+- ProcessJourney
+- VideoShowcase
+- PhotoGallery
+- Skills
+- Education
+- Contact
+- Footer
+
+Create reusable animation presets and design tokens.
+
+Prefer clean, maintainable implementation over unnecessary complexity.
+
+---
+
+# PART C — PREMIUM VISUAL DESIGN SYSTEM
+
+# 7. VISUAL IDENTITY
+
+The design should feel like a combination of:
+
+- Apple-level visual refinement
+- A premium digital creative agency
+- An award-winning editorial portfolio
+- A modern SaaS product experience
+- A sophisticated technology professional's personal brand
+
+The visual identity is:
+
+**Premium Light Theme × Glassmorphism × Editorial Typography × Cinematic Motion × Modern Technology × Human Connection**
+
+Create a visually distinctive design, not a generic template.
+
+## Colour palette
+
+Suggested colours:
+
+- Main background: `#FAFBFF`
+- White surface: `#FFFFFF`
+- Warm off-white: `#F8F7F4`
+- Light blue surface: `#EEF3FF`
+- Lavender surface: `#F2EFFF`
+- Heading colour: `#18243B`
+- Body text: `#53627A`
+- Primary accent blue: `#315BFF`
+- Secondary accent: `#8B9CFF`
+- Border colour: `#E1E7F0`
+
+Use gentle blue, lavender, and white gradients.
+
+Avoid dramatic dark backgrounds.
+
+## Typography
+
+Use sophisticated modern typography.
+
+Recommended:
+
+**Space Grotesk** for expressive editorial headlines.
+
+**Manrope** or **Plus Jakarta Sans** for professional body copy.
+
+Use:
+
+- Oversized hero typography
+- Strong hierarchy
+- Responsive fluid font sizing
+- Elegant line heights
+- Beautiful tracking
+- Expressive highlighted text
+- Large editorial section titles
+
+Typography should itself be a significant design feature.
+
+## Layout
+
+Include:
+
+- Large cinematic hero
+- Floating navigation
+- Asymmetric editorial sections
+- Responsive glassmorphism bento grids
+- Large project cards
+- Animated diagrams
+- Professional image compositions
+- Scroll-driven career timeline
+- Interactive galleries
+- Visually engaging contact finale
+
+Use generous white space and carefully balanced visual density.
+
+---
+
+# 8. GLASSMORPHISM / FROSTED GLASS
+
+**Glassmorphism must be one of the website's signature design characteristics.**
+
+Create a consistent frosted-glass visual system.
+
+Use:
+
+- Semi-transparent white surfaces
+- Backdrop blur
+- Soft inner highlights
+- Fine translucent borders
+- Refined soft shadows
+- Gentle blue reflections
+- Layered translucent cards
+- Floating glass labels
+- Subtle animated highlights
+
+Example styling direction:
+
+`background: rgba(255, 255, 255, 0.65)`
+
+`backdrop-filter: blur(18px) saturate(150%)`
+
+`border: 1px solid rgba(255,255,255,0.8)`
+
+`box-shadow: 0 12px 40px rgba(45,65,125,0.08)`
+
+These are starting values; refine them for the final aesthetic.
+
+Use glassmorphism in the:
+
+- Navbar
+- Hero
+- Expertise cards
+- AI-era capability section
+- Professional timeline
+- Project highlights
+- Image gallery overlays
+- Video showcase
+- Contact section
+
+Do not sacrifice readability for transparency.
+
+Ensure clear hierarchy between opaque surfaces, subtle glass, and prominent floating glass panels.
+
+---
+
+# 9. ANIMATIONS — VERY HIGH PRIORITY
+
+**The website must be extremely rich in modern, elegant, highly polished animations.**
+
+I want sophisticated movement throughout the site.
+
+The interface should feel alive, responsive, and cinematic.
+
+Use a professional motion system based on spring physics, scroll-triggered reveals, and tasteful micro-interactions.
+
+## A. Spring Physics
+
+Use Motion for React or an equivalent well-supported animation approach to achieve natural spring movement.
+
+Apply:
+
+- Smooth acceleration
+- Gentle overshoot
+- Soft settling
+- Responsive hover movement
+- Elegant entrance animations
+- Natural transitions between states
+
+Use spring interactions for:
+
+- Buttons
+- Floating cards
+- Navigation
+- Capability badges
+- Expertise panels
+- Project cards
+- Timeline milestones
+- Gallery images
+- Interactive process nodes
+
+Avoid exaggerated bouncing.
+
+## B. Scroll-Triggered Fade-Up Reveals
+
+Implement viewport-triggered animations.
+
+As visitors scroll:
+
+- Headings fade and move upward.
+- Paragraphs reveal gently.
+- Cards enter in staggered groups.
+- Images reveal through elegant masks.
+- Project cards animate into view.
+- Career milestones appear sequentially.
+- Decorative lines and connecting paths animate.
+- Process diagrams gradually become visible.
+
+Animations should normally trigger once as elements enter the viewport.
+
+Use carefully tuned durations and delays.
+
+Keep movement subtle and smooth.
+
+## C. Cinematic Hero Animation
+
+Build a coordinated hero introduction:
+
+1. Navigation appears.
+2. Eyebrow text reveals.
+3. Main headline animates line by line.
+4. Description fades upward.
+5. Main portrait reveals.
+6. Floating glass labels appear with spring motion.
+7. CTA buttons enter.
+8. Ambient background shapes continue gentle movement.
+
+Do not delay the visitor from reading the page.
+
+## D. Parallax
+
+Use subtle parallax for:
+
+- Ambient gradients
+- Decorative shapes
+- Professional portraits
+- Image compositions
+- Background lines
+- Selected section transitions
+
+Avoid aggressive parallax or scroll-jacking.
+
+## E. Image Animations
+
+Use:
+
+- Scroll-based masking
+- Subtle scale reveals
+- Elegant cropping transitions
+- Hover zoom
+- Spring hover movement
+- Glass overlay reveals
+- Smooth lightbox transitions
+
+## F. Micro-Interactions
+
+Include:
+
+- Animated buttons
+- Magnetic-feeling CTA hover effects
+- Arrow movement
+- Animated navigation underlines
+- Card elevation
+- Soft gradient border highlights
+- Smooth icon movement
+- Subtle responsive scaling
+- Elegant interactive feedback
+
+## G. Kinetic Typography
+
+Include tasteful animated text effects:
+
+- Large line reveals
+- Staggered heading entrance
+- Animated text highlighting
+- Moving accent underlines
+- Elegant oversized marquee typography where appropriate
+
+Avoid excessive character-by-character animation.
+
+## H. Ambient Motion
+
+Include slowly moving gradients, luminous shapes, and floating decorative elements.
+
+Keep ambient motion restrained and performance-conscious.
+
+## I. Animation Accessibility
+
+Respect reduced-motion preferences.
+
+Provide functional non-animated states.
+
+Use transform and opacity where practical.
+
+Avoid animation that hides content indefinitely.
+
+Optimise mobile performance.
+
+---
+
+# PART D — COMPLETE WEBSITE COPY AND SECTIONS
+
+Use the following text as the actual website content.
+
+Do not replace it with generic placeholder content.
+
+You may make minor editorial improvements for clarity and responsive layouts while preserving the verified meaning.
+
+---
+
+# 10. HERO
+
+### Eyebrow
+
+BUSINESS × TECHNOLOGY × DELIVERY
+
+### Main headline
+
+**Turning Business Complexity into Technology Clarity.**
+
+### Professional positioning
+
+**Business-to-Technology Transformation Professional with strong experience across Business Analysis, Product Ownership, Project Delivery and Solution Consulting.**
+
+### Supporting text
+
+I'm Kavindra Jayamal Diyagaha, a Senior Business Analyst with experience spanning business analysis, product ownership, project delivery, and solution consulting.
+
+I work at the intersection of business needs, stakeholder expectations, product decisions, and technology delivery—helping translate complex challenges into structured requirements, practical solutions, and coordinated execution.
+
+### Current position
+
+Senior Business Analyst at iTechro
+
+### Location
+
+Sri Lanka
+
+### CTA buttons
+
+**Explore My Work**
+
+**Get to Know Me**
+
+### Hero design
+
+Use `profile-pic (20)-1.png` as the primary portrait.
+
+Create an elegant animated composition with floating glass labels:
+
+- Business Analysis
+- Product Ownership
+- Solution Thinking
+- Project Delivery
+- Stakeholder Collaboration
+
+Use sophisticated spring animations and soft atmospheric gradients.
+
+The hero should be visually extraordinary without sacrificing readability.
+
+---
+
+# 11. PROFESSIONAL VALUE INTRODUCTION
+
+### Eyebrow
+
+CONNECTING BUSINESS & TECHNOLOGY
+
+### Main headline
+
+**Great Technology Solutions Start with Understanding the Right Problem.**
+
+### Content
+
+Technology delivers meaningful value when business needs are understood, people are aligned, and solutions are shaped around clear objectives.
+
+Throughout my career, I've worked across different stages of that journey—from discovering requirements and analysing processes to supporting product decisions, defining solutions, coordinating delivery, and validating outcomes.
+
+That experience has shaped how I approach technology work: understand the context, create clarity, communicate effectively, and keep business objectives connected to delivery.
+
+### Signature visual
+
+Build an impressive animated diagram:
+
+**Business Challenges → Analysis & Discovery → Solution Definition → Product & Delivery → Business Outcomes**
+
+Use connected glass nodes, animated flow lines, and elegant scroll progression.
+
+Make this a signature business-to-technology visual experience.
+
+---
+
+# 12. ABOUT ME
+
+### Eyebrow
+
+BEYOND THE JOB TITLE
+
+### Main headline
+
+**A Career Built Around Connecting People, Problems, and Solutions.**
+
+### Paragraph 1
+
+My professional journey began in business analysis, working on enterprise software and digitalisation projects where understanding business processes, gathering requirements, and communicating with stakeholders were essential parts of delivery.
+
+These experiences gave me a foundation in analytical thinking, requirements engineering, solution validation, and collaboration across business and technical teams.
+
+### Paragraph 2
+
+As my career progressed, I expanded into product-focused responsibilities, project coordination, implementation delivery, and solution consulting.
+
+I've worked with enterprise content management, workflow automation, customer data platforms, marketing technology, e-commerce, and public-sector systems.
+
+These experiences have helped me develop a broader perspective on how technology solutions are identified, shaped, communicated, prioritised, and delivered.
+
+### Paragraph 3
+
+Today, my work continues to combine business discovery, solution definition, stakeholder collaboration, and delivery preparation.
+
+I enjoy roles that require both structured analysis and practical communication—where understanding people and business priorities is just as important as understanding technology.
+
+### Closing statement
+
+**Understand the problem. Create clarity. Collaborate effectively. Move the solution forward.**
+
+### Design
+
+Use `Kavindra - Product Owner.jpg` or the full-length professional portrait in a sophisticated editorial composition.
+
+Use animated image masks, floating glass information cards, and scroll-triggered text reveals.
+
+---
+
+# 13. CORE EXPERTISE
+
+### Eyebrow
+
+WHAT I BRING TO THE TABLE
+
+### Headline
+
+**Different Disciplines. One Connected Perspective.**
+
+### Introduction
+
+My experience combines business understanding, product thinking, delivery awareness, and client-facing solution communication.
+
+Rather than treating these as separate functions, I approach them as connected capabilities that contribute to effective technology delivery.
+
+Create six visually stunning animated glass cards.
+
+### 01 — Business Analysis & Requirements Engineering
+
+Understanding business challenges, eliciting stakeholder needs, analysing processes, defining functional and non-functional requirements, and translating complex information into clear actionable specifications.
+
+Capabilities:
+
+Requirements Elicitation, BPMN, Process Mapping, BRD/FRD/SRS, User Stories, Acceptance Criteria, UAT.
+
+### 02 — Product Ownership & Product Thinking
+
+Connecting customer needs and business priorities with product features, roadmaps, backlogs, and releases.
+
+Capabilities:
+
+Product Roadmaps, Backlog Management, Feature Prioritisation, Stakeholder Engagement, Release Planning, Product Demonstrations.
+
+### 03 — Project & Delivery Coordination
+
+Supporting the movement from requirements and plans to implemented solutions through planning, coordination, stakeholder communication, milestones, dependencies, and validation.
+
+Capabilities:
+
+Project Planning, Delivery Coordination, Scope Management, Change Requests, Vendor Collaboration.
+
+### 04 — Solution Consulting & Pre-Sales
+
+Understanding client challenges, shaping solution approaches, and communicating technology capabilities through proposals, presentations, demonstrations, and proofs of concept.
+
+Capabilities:
+
+Solution Discovery, RFP/EOI Support, Proposals, Presentations, Product Demos, POCs.
+
+### 05 — Digital Transformation & Process Improvement
+
+Analysing existing workflows, identifying improvement opportunities, and shaping how software and automation can address organisational needs.
+
+Capabilities:
+
+BPMN, Workflow Automation, Business Process Modelling, Business Rules, Low-Code/No-Code Platforms.
+
+### 06 — Stakeholder Collaboration & Communication
+
+Connecting business stakeholders, management, technical teams, development teams, and external partners through effective communication and shared understanding.
+
+Capabilities:
+
+Stakeholder Engagement, Workshops, Facilitation, Training, Presentations, Expectation Management.
+
+### Design
+
+Use a responsive animated bento grid with frosted glass, tasteful abstract visuals, staggered fade-up transitions, and smooth spring hover interactions.
+
+---
+
+# 14. AI-ERA PROFESSIONAL DIFFERENTIATION
+
+**THIS MUST BE ONE OF THE MOST IMPORTANT AND VISUALLY IMPRESSIVE SECTIONS OF THE WEBSITE.**
+
+I want visitors to understand the professional value of my human-centred skills in an AI-enabled world.
+
+Do not present AI as something I am competing against.
+
+Present AI as a powerful tool that can accelerate work while highlighting the importance of understanding business context, aligning people, evaluating options, making informed decisions, and validating solutions.
+
+### Eyebrow
+
+HUMAN SKILLS. TECHNOLOGY-ENABLED FUTURE.
+
+### Main headline
+
+**Technology Is Evolving. The Need for Good Judgement Isn't.**
+
+### Introduction
+
+AI is changing how quickly information can be analysed, content can be created, and software delivery activities can be supported.
+
+But speed alone does not establish that a business problem is understood, a solution is appropriate, stakeholders are aligned, or expectations have been met.
+
+My experience is grounded in the capabilities that connect technology possibilities with organisational needs: asking the right questions, understanding context, evaluating options, communicating clearly, and supporting informed decisions.
+
+### Subheading
+
+**Where I Add Value**
+
+### Capability 01 — Understanding the Real Business Problem
+
+Working beyond an initial request to uncover the underlying business needs, processes, constraints, dependencies, and stakeholder expectations.
+
+### Capability 02 — Stakeholder Alignment & Trust
+
+Connecting people with different responsibilities, priorities, and perspectives to develop shared understanding and realistic expectations.
+
+### Capability 03 — Critical Thinking & Analysis
+
+Questioning assumptions, evaluating requirements, identifying gaps, analysing information, and considering business and delivery implications.
+
+### Capability 04 — Solution Thinking & Design Collaboration
+
+Translating business needs into workable functional solutions through process design, solution options, business rules, information flows, and technical collaboration.
+
+### Capability 05 — Product Judgement & Prioritisation
+
+Connecting customer needs, product objectives, stakeholder expectations, features, priorities, and implementation considerations.
+
+### Capability 06 — Communication & Pre-Sales Demonstrations
+
+Explaining software capabilities and solution value through presentations, proposals, demonstrations, proofs of concept, and knowledge sharing.
+
+### Capability 07 — Delivery Alignment & Validation
+
+Helping ensure business requirements, agreed scope, implementation activities, and acceptance criteria remain connected.
+
+### Closing statement
+
+**AI can accelerate the work. Understanding what matters, aligning people, and making sound decisions remain central to delivering business value.**
+
+### My current AI-related work
+
+At iTechro, I contribute to internal AI-assisted delivery process improvement alongside senior management and technical colleagues.
+
+My documented work includes shaping worksheets, proposals, delivery-agreement templates, reusable AI prompt structures, and scope and traceability controls.
+
+Only mention this at a high level if appropriate for public publication.
+
+Do not expose confidential internal frameworks, templates, proprietary processes, or prompts.
+
+Do not describe me as an AI engineer, machine-learning expert, or technical architect.
+
+### AI-era visual experience
+
+Create an interactive, beautifully animated network of interconnected glass nodes.
+
+Central node:
+
+**BUSINESS VALUE**
+
+Surrounding capabilities:
+
+- Stakeholders
+- Communication
+- Analysis
+- Solution Thinking
+- Product Decisions
+- Delivery
+- Validation
+
+Use flowing connectors, spring-style node movement, elegant light gradients, and hover details.
+
+On mobile, transform this into a beautiful vertically connected capability layout.
+
+---
+
+# 15. PROFESSIONAL EXPERIENCE
+
+### Eyebrow
+
+EXPERIENCE & EVOLUTION
+
+### Main headline
+
+**From Understanding Requirements to Shaping Technology Delivery.**
+
+### Introduction
+
+My career has taken me through roles spanning enterprise software, digital products, client implementations, and technology delivery.
+
+Each stage has added a different perspective to how I approach business challenges and practical solutions.
+
+Create a premium animated career timeline.
+
+### iTechro — Senior Business Analyst
+
+**June 2026 – Present**
+
+Working across business discovery, pre-sales, solution definition, requirements analysis, scope definition, delivery agreements, stakeholder collaboration, and implementation readiness.
+
+Also contributing to internal AI-assisted delivery process improvement alongside leadership and technical colleagues.
+
+### Enadoc / Tech One Global — Product Owner
+
+**August 2024 – June 2026**
+
+Product ownership for Enadoc and Flowdoh, including roadmaps, backlogs, prioritisation, stakeholder engagement, requirements, release-related activities, product presentations, demonstrations, and enablement.
+
+### Enadoc / Tech One Global — Business Analyst
+
+**January 2023 – August 2024**
+
+Worked on enterprise document management and workflow automation implementations involving international client engagements, business requirements, process modelling, Agile collaboration, implementation coordination, and UAT.
+
+### Digital X Labs — Associate Project Manager
+
+**January 2022 – January 2023**
+
+Worked on customer data platforms, digital engagement, marketing technology, and software delivery projects involving planning, stakeholder coordination, budgets, procurement, vendor communication, and delivery tracking.
+
+### Epic Lanka Technologies — Product Specialist – Business Analyst
+
+**March 2020 – January 2022**
+
+Worked with DOXPRO Spaces and e-commerce products, including business analysis, workflow configuration, product demonstrations, proofs of concept, pre-sales, and feature-related collaboration.
+
+### Epic Lanka Technologies — Trainee Business Analyst
+
+**March 2019 – March 2020**
+
+Supported enterprise and public-sector software implementations through requirements documentation, process analysis, stakeholder communication, testing, and implementation support.
+
+### Daraz — Content Intern
+
+**November 2018 – February 2019**
+
+Supported digital content management and quality-control activities in an e-commerce environment.
+
+### Timeline design
+
+Use elegant floating glass panels with:
+
+- Animated timeline connectors
+- Scroll-triggered milestone reveals
+- Spring hover movement
+- Strong date hierarchy
+- Beautiful role typography
+- Soft gradients
+- Responsive chronological layout
+
+### Accuracy requirement
+
+These dates follow my primary CV.
+
+The uploaded LinkedIn export contains some conflicting employment dates and includes a ZILLIONe Project Manager role that does not appear in the main CV.
+
+Do not silently reconcile these differences or add unverified roles.
+
+Keep this timeline as provided and report conflicts separately before public publication.
+
+---
+
+# 16. SELECTED WORK & PROJECTS
+
+### Eyebrow
+
+WORK I'VE BEEN PART OF
+
+### Main headline
+
+**Products, Platforms, and Problems Worth Solving.**
+
+### Introduction
+
+Across my career, I've worked with enterprise software products, client implementations, and digital platforms serving different organisational needs.
+
+My involvement has ranged from requirements analysis and solution configuration to product ownership, stakeholder engagement, presentations, and delivery coordination.
+
+Build an extraordinary animated project showcase.
+
+### Project 01 — Enadoc
+
+**Enterprise Document Management & Archival**
+
+Organisation: Enadoc / Tech One Global
+
+Role: Product Owner
+
+Worked on product roadmaps, backlog management, feature requirements, stakeholder communication, product validation, release-related activities, demonstrations, and product enablement.
+
+Capabilities demonstrated:
+
+Product Ownership, Backlog Management, Enterprise Content Management, Stakeholder Collaboration, Presentations.
+
+### Project 02 — Flowdoh
+
+**Low-Code / No-Code Workflow Automation**
+
+Organisation: Enadoc / Tech One Global
+
+Role: Product Owner
+
+Worked on requirements, prioritisation, stakeholder engagement, feature coordination, release-related activities, and product demonstrations for a workflow automation platform.
+
+Capabilities demonstrated:
+
+Product Ownership, Workflow Automation, Business Process Understanding, Product Communication.
+
+### Project 03 — DOXPRO Spaces
+
+**Business Workflow Management**
+
+Organisation: Epic Lanka Technologies
+
+Role: Product Specialist – Business Analyst
+
+Worked on requirements analysis, workflow configuration, product feature collaboration, client demonstrations, pre-sales documentation, and proof-of-concept environments.
+
+Capabilities demonstrated:
+
+Business Analysis, Workflow Configuration, Product Demonstrations, Pre-Sales, POCs.
+
+### Project 04 — E3 Customer Data Platform
+
+**Customer Data & Digital Engagement**
+
+Organisation: Digital X Labs
+
+Role: Associate Project Manager
+
+Supported project planning, requirements coordination, stakeholder engagement, delivery tracking, and technical collaboration involving customer data and digital engagement technology.
+
+Capabilities demonstrated:
+
+Project Coordination, Requirements Analysis, Stakeholder Management, Delivery Planning.
+
+### Project 05 — Lucky 1
+
+**Lottery Management Platform**
+
+Organisation: Digital X Labs
+
+Role: Associate Project Manager
+
+Worked on project planning and coordination activities including requirements discussions, stakeholder communication, delivery tracking, and implementation-related coordination.
+
+Capabilities demonstrated:
+
+Project Delivery, Stakeholder Coordination, Requirements Analysis, Implementation Support.
+
+### Project 06 — Enterprise Workflow & Document Management Implementations
+
+**Enterprise Software Implementation**
+
+Organisation: Enadoc / Tech One Global
+
+Role: Business Analyst
+
+Worked on requirements elicitation, business process modelling, user stories, acceptance criteria, technical clarifications, implementation coordination, and UAT across client engagements in Sri Lanka and overseas.
+
+Capabilities demonstrated:
+
+Requirements Engineering, BPMN, Enterprise Software, Stakeholder Collaboration, UAT.
+
+### Project 07 — Public-Sector Digitisation
+
+**Enterprise & Government Software Implementations**
+
+Organisation: Epic Lanka Technologies
+
+Role: Trainee Business Analyst
+
+Supported enterprise and public-sector implementations involving business requirements, documentation, process analysis, stakeholder collaboration, and testing.
+
+Capabilities demonstrated:
+
+Business Analysis, Requirements Documentation, Process Modelling, Software Testing Support.
+
+### Project visual requirements
+
+Use:
+
+- Large animated project cards
+- Frosted-glass overlays
+- Responsive bento grids
+- Subtle parallax
+- Hover zoom
+- Spring interactions
+- Animated gradients
+- Scroll-triggered reveals
+- Clean category labels
+- Clear role information
+
+Do not fabricate screenshots, product metrics, client testimonials, business results, or claims of independently creating entire products.
+
+Where real product screenshots are unavailable, use clearly illustrative abstract CSS graphics.
+
+Protect confidential employer and client information.
+
+---
+
+# 17. MY WORKING APPROACH
+
+### Eyebrow
+
+HOW I APPROACH THE WORK
+
+### Headline
+
+**From the First Conversation to Delivery Clarity.**
+
+### Introduction
+
+Effective technology work requires a connected approach that brings together business understanding, analytical thinking, solution definition, stakeholder collaboration, delivery awareness, and validation.
+
+Create an animated six-step journey.
+
+### 01 — Understand
+
+Explore the business challenge, stakeholder expectations, existing processes, constraints, and intended outcomes.
+
+### 02 — Analyse
+
+Translate information into requirements, process models, business rules, dependencies, and decisions.
+
+### 03 — Shape
+
+Collaborate on solution options, functional designs, scope boundaries, and delivery considerations.
+
+### 04 — Align
+
+Create shared understanding across stakeholders and technical teams.
+
+### 05 — Support Delivery
+
+Maintain requirements clarity, address questions, support coordination, and help keep implementation activities aligned.
+
+### 06 — Validate
+
+Confirm that implemented functionality aligns with business requirements, acceptance criteria, and stakeholder expectations.
+
+This is a summary of my professional working approach, not a proprietary methodology.
+
+### Design
+
+Create animated connected glass panels showing the six stages.
+
+Use smooth progressive scrolling effects, animated lines, spring movement, and sophisticated visual transitions.
+
+---
+
+# 18. IN ACTION — MY VIDEO & PROFESSIONAL PHOTOGRAPHS
+
+### Eyebrow
+
+BEYOND DOCUMENTATION
+
+### Headline
+
+**Making Technology Understandable.**
+
+### Introduction
+
+An important part of working between business and technology is being able to communicate ideas clearly.
+
+Throughout my career, I've participated in product presentations, demonstrations, client discussions, training, and knowledge-sharing activities.
+
+These experiences reflect my interest in making technology understandable to different audiences.
+
+## Featured video
+
+I appear alongside our marketing manager in a YouTube video promoting one of our software products.
+
+Video URL:
+
+https://youtu.be/EaEtS289pCI?si=iLChiwauB-ZnRnwW
+
+Video ID:
+
+`EaEtS289pCI`
+
+### Featured video headline
+
+**Product Conversations, On Camera.**
+
+### Video description
+
+A product-focused video featuring me and our marketing manager, communicating the value of a software solution.
+
+This is an example of my experience presenting technology capabilities to a wider audience.
+
+### Video implementation
+
+Embed the actual YouTube video.
+
+Use:
+
+`https://www.youtube-nocookie.com/embed/EaEtS289pCI`
+
+Requirements:
+
+- Responsive 16:9 player
+- No autoplay
+- Lazy loading
+- Accessible iframe title
+- Beautiful light-themed glass frame
+- Animated surrounding decorative elements
+- Prominent **Watch on YouTube** link
+
+Do not invent the name of the promoted product if it cannot be verified.
+
+Do not claim I independently produced, directed, or led the promotional campaign.
+
+## Professional Photography Gallery
+
+Create a visually rich gallery incorporating all remaining uploaded photographs.
+
+Possible gallery categories:
+
+- Speaking & Presentations
+- Product Demonstrations
+- Knowledge Sharing
+- Professional Engagements
+- Professional Moments
+
+Use:
+
+- Animated masonry grid
+- Frosted-glass captions
+- Interactive lightbox
+- Staggered photo reveals
+- Smooth hover movement
+- Spring-based gallery transitions
+- Responsive image layouts
+
+Use real photographs and neutral, factual captions.
+
+Do not invent event names, speaking awards, audience sizes, or identities.
+
+---
+
+# 19. SKILLS & TOOLKIT
+
+### Eyebrow
+
+CAPABILITIES & TOOLKIT
+
+### Headline
+
+**The Skills Behind the Work.**
+
+Organise my skills into visually beautiful, animated categories.
+
+### Business Analysis
+
+Requirements Elicitation, Requirements Engineering, Business Process Analysis, BPMN, Process Mapping, BRD, FRD, SRS, User Stories, Use Cases, Acceptance Criteria, UAT, Requirements Traceability.
+
+### Product Ownership
+
+Product Roadmaps, Backlog Management, Prioritisation, Feature Definition, Product Requirements, Stakeholder Engagement, Release Planning, Product Demonstrations, Agile/Scrum Collaboration.
+
+### Project & Delivery
+
+Project Planning, Delivery Coordination, Milestone Tracking, Scope Management, Change Requests, Risk and Dependency Tracking, Vendor Coordination, Implementation Support.
+
+### Solution Consulting & Pre-Sales
+
+Solution Discovery, Client Workshops, Business Process Design, Solution Definition, Product Presentations, Proofs of Concept, Proposals, RFP/EOI Responses, Compliance Matrices, Integration Requirements.
+
+### Familiar Tools
+
+Jira, Azure DevOps, Microsoft Visio, Microsoft Power BI, Figma, Adobe XD, Canva, Adobe Photoshop, Microsoft Office, SQL Server Management Studio, Visual Studio, AnyLogic, Windows, Linux.
+
+### Technology Domains
+
+Enterprise Content Management, Document Management, Digital Archiving, Workflow Automation, Low-Code/No-Code Platforms, Customer Data Platforms, Marketing Technology, E-Commerce, Enterprise Software Implementations, Public-Sector Digitalisation.
+
+Do not use arbitrary skill percentages.
+
+Do not imply advanced technical proficiency based solely on familiarity.
+
+---
+
+# 20. EDUCATION & PROFESSIONAL QUALIFICATIONS
+
+### Eyebrow
+
+ACADEMIC & PROFESSIONAL FOUNDATION
+
+### Headline
+
+**A Foundation in Technology and Business.**
+
+### BSc (Hons) Information Technology for Business
+
+Coventry University, United Kingdom
+
+**First Class Honours**
+
+### Business Analysis Qualification
+
+BCS — The Chartered Institute for IT
+
+Use the precise certification name from the uploaded documentation once verified.
+
+### Higher Diploma in Computer Based Information Systems
+
+National Institute of Business Management, Sri Lanka
+
+### Diploma in Computer System Designing
+
+National Institute of Business Management, Sri Lanka
+
+Use sophisticated light-themed glass cards with subtle animated reveals.
+
+Highlight the First Class Honours distinction tastefully.
+
+---
+
+# 21. THE PERSON BEHIND THE WORK
+
+### Eyebrow
+
+BEYOND THE PROFESSIONAL PROFILE
+
+### Headline
+
+**Analytical in Approach. Human in Collaboration.**
+
+### Body
+
+My professional experience has reinforced the importance of clear communication, thoughtful analysis, and working with people who bring different perspectives to the same challenge.
+
+I value understanding the detail without losing sight of the bigger picture, being realistic about commitments, and creating clarity when situations are complex.
+
+I've also valued opportunities to present ideas, share knowledge, and engage with audiences beyond day-to-day project discussions.
+
+For me, professional growth is an ongoing process of learning, adapting, and developing a better understanding of how business and technology work together.
+
+Use my actual photographs in an elegant editorial section.
+
+Do not invent hobbies, family stories, personality claims, or interests.
+
+---
+
+# 22. CONTACT
+
+### Eyebrow
+
+LET'S CONNECT
+
+### Main headline
+
+**Good Conversations Can Lead to Great Solutions.**
+
+### Supporting text
+
+Whether you're interested in business analysis, digital transformation, product ownership, project delivery, or solution consulting, I'm always open to meaningful professional conversations.
+
+Let's connect, exchange perspectives, and explore ideas.
+
+### Phone number
+
+**+94 77 555 9579**
+
+Clickable:
+
+`tel:+94775559579`
+
+### LinkedIn
+
+https://www.linkedin.com/in/kavindra-diyagaha/
+
+CTA:
+
+**Connect on LinkedIn**
+
+### Footer
+
+**Kavindra Jayamal Diyagaha**
+
+Business-to-Technology Transformation Professional
+
+**Connecting Business Understanding with Technology Delivery.**
+
+Phone: +94 77 555 9579
+
+LinkedIn profile
+
+Do not display my date of birth, home address, referee details, or unapproved email.
+
+Do not add a non-functional contact form.
+
+### Contact design
+
+Create a visually memorable final section with:
+
+- Oversized typography
+- Large frosted-glass CTA panel
+- Soft blue/lavender gradients
+- Elegant spring hover effects
+- Prominent contact actions
+- Sophisticated light-themed footer
+
+No dark background.
+
+---
+
+# PART E — NAVIGATION AND USER EXPERIENCE
+
+# 23. NAVIGATION
+
+Create a premium floating frosted-glass navigation bar.
+
+Menu items:
+
+**Home | About | Expertise | Experience | Projects | In Action | Contact**
+
+Implement:
+
+- Rounded glass container
+- Soft shadows
+- Elegant hover animation
+- Active section highlighting
+- Smooth scrolling
+- Spring-style underline effects
+- Responsive mobile menu
+- Keyboard accessibility
+- Appropriate focus indicators
+
+Ensure all links work.
+
+---
+
+# 24. SIGNATURE WEBSITE EXPERIENCES
+
+Create eight memorable design moments.
+
+## Experience 01 — Cinematic Hero
+
+Formal headshot, oversized headline, floating glass labels, staggered entrance animations, and beautiful light gradients.
+
+## Experience 02 — Business-to-Technology Flow
+
+An animated connected diagram representing the journey from business needs through analysis and solution definition to delivery.
+
+## Experience 03 — Expertise Bento Grid
+
+Glassmorphism cards, staggered fade-up reveals, spring hover effects, and distinctive abstract illustrations.
+
+## Experience 04 — AI-Era Capability Network
+
+An interconnected interactive visual highlighting the human capabilities that contribute value in AI-enabled technology work.
+
+## Experience 05 — Career Timeline
+
+An animated professional journey with glass cards, connecting lines, milestone reveals, and meaningful role descriptions.
+
+## Experience 06 — Selected Work Showcase
+
+Large project cards, animated overlays, beautiful gradients, and clear descriptions of my actual contributions.
+
+## Experience 07 — In Action
+
+Real photographs of me presenting, a full professional gallery, and my YouTube promotional video.
+
+## Experience 08 — Contact Finale
+
+An impressive light-themed contact section with oversized typography, phone number, LinkedIn, and elegant animation.
+
+---
+
+# PART F — RESPONSIVENESS, ACCESSIBILITY AND PERFORMANCE
+
+# 25. RESPONSIVENESS
+
+The website must be exceptional on:
+
+- Large desktop monitors
+- Standard desktop screens
+- Laptops
+- Tablets
+- Mobile devices
+
+For mobile:
+
+- Reorganise the hero layout.
+- Keep my main headshot prominent.
+- Scale typography properly.
+- Stack cards intelligently.
+- Simplify expensive animation where appropriate.
+- Preserve image quality.
+- Keep contact actions accessible.
+- Ensure the gallery works.
+- Make the YouTube player responsive.
+- Prevent horizontal overflow.
+- Provide functional mobile navigation.
+
+Design mobile deliberately rather than simply shrinking the desktop layout.
+
+---
+
+# 26. PERFORMANCE
+
+Use modern performance practices.
+
+- Optimise image formats and sizes.
+- Use responsive image loading.
+- Lazy-load below-the-fold media.
+- Prioritise the hero image.
+- Minimise layout shifts.
+- Animate transform and opacity where possible.
+- Limit expensive blur effects.
+- Avoid excessive continuously running animations.
+- Use animation libraries efficiently.
+- Keep dependencies minimal.
+- Do not add unnecessary backend functionality.
+
+The final site should feel smooth and responsive, even on mobile devices.
+
+---
+
+# 27. ACCESSIBILITY
+
+Implement:
+
+- Semantic HTML
+- Correct heading hierarchy
+- Appropriate contrast
+- Descriptive alt text
+- Keyboard navigation
+- Visible focus states
+- Accessible controls
+- Touch-friendly buttons
+- Reduced-motion preferences
+- Accessible image lightbox
+- Accessible embedded video
+- Proper link labels
+- Logical reading order
+
+Heavy animation must not compromise usability.
+
+---
+
+# 28. SEO
+
+Set the page title to:
+
+**Kavindra Jayamal Diyagaha | Business-to-Technology Transformation Professional**
+
+Meta description:
+
+Kavindra Jayamal Diyagaha is a Business-to-Technology Transformation Professional with experience across Business Analysis, Product Ownership, Project Delivery and Solution Consulting.
+
+Include:
+
+- Appropriate Open Graph metadata
+- Real professional image for social sharing
+- Proper metadata
+- Semantic content
+- Descriptive headings
+- Responsive viewport settings
+
+Do not invent the production domain.
+
+---
+
+# PART G — CONTENT INTEGRITY
+
+# 29. PROFESSIONAL ACCURACY RULES
+
+Do not invent:
+
+- Project outcomes
+- Quantified achievements
+- Financial savings
+- Revenue figures
+- Team sizes
+- Budgets
+- Employment dates
+- Job titles
+- Certifications
+- Awards
+- Client testimonials
+- Advanced technical expertise
+- AI engineering experience
+- Product development authority beyond my actual role
+
+Distinguish my specific involvement from the accomplishments of entire employers, product teams, and project teams.
+
+Protect internal employer information and confidential client data.
+
+Use the supplied content and CV as the factual foundation.
+
+Where discrepancies exist, document them for review without silently changing public claims.
+
+---
+
+# PART H — BUILD EVERYTHING IN ONE GO
+
+# 30. IMPLEMENTATION PROCESS
+
+**I want a complete website from this single prompt.**
+
+Carry out these tasks in sequence as part of the same build.
+
+### Phase 1 — Understand
+
+Review all attached documents and image assets.
+
+Understand my professional identity and the content supplied above.
+
+### Phase 2 — Visual Design
+
+Develop a coherent premium light theme with refined typography, glassmorphism, sophisticated shadows, and a consistent colour system.
+
+### Phase 3 — Component Development
+
+Create every required section and reusable component.
+
+Do not leave sections incomplete.
+
+### Phase 4 — Animation Implementation
+
+Implement the complete motion system:
+
+- Spring physics
+- Scroll-triggered fade-up
+- Staggered card reveals
+- Hero entrance
+- Image masks
+- Animated timeline
+- Process diagrams
+- Hover interactions
+- Ambient gradients
+- Cinematic section transitions
+
+### Phase 5 — Photography
+
+Use `profile-pic (20)-1.png` as the hero.
+
+Integrate every other uploaded photo into the appropriate sections.
+
+Confirm every image path is valid.
+
+### Phase 6 — Video Integration
+
+Embed the YouTube video.
+
+Make sure it displays and has a working YouTube link.
+
+### Phase 7 — Contact
+
+Add my approved phone number and LinkedIn links.
+
+Test the `tel:` link.
+
+### Phase 8 — Responsive Design
+
+Review and correct desktop, tablet, and mobile layouts.
+
+### Phase 9 — Visual Refinement
+
+Polish typography, spacing, colours, animation timing, image composition, glass effects, card hierarchy, and section transitions.
+
+### Phase 10 — Quality Assurance
+
+Verify the entire website works.
+
+Check and fix:
+
+- Missing sections
+- Broken image paths
+- Wrong hero photo
+- Broken video embedding
+- Non-working links
+- Overflow problems
+- Accessibility problems
+- Poor mobile layouts
+- Unnecessary dark backgrounds
+- Inconsistent glass styling
+- Excessive animation
+- Missing content
+- Placeholder text
+- Incorrect job history
+- Invented claims
+
+Do not mark the implementation complete while obvious issues remain.
+
+If you cannot run a particular test, explain that limitation rather than claiming it passed.
+
+---
+
+# 31. FINAL ACCEPTANCE CHECKLIST
+
+The final website must satisfy all of the following:
+
+- [ ] Premium LIGHT theme throughout
+- [ ] Absolutely no dark-themed sections or dark footer
+- [ ] Main hero headshot is `profile-pic (20)-1.png`
+- [ ] All remaining uploaded photos are displayed
+- [ ] Professional identity is prominent
+- [ ] Rich, sophisticated modern animations
+- [ ] Frosted-glass / glassmorphism component system
+- [ ] Natural spring physics animations
+- [ ] Scroll-triggered fade-up and staggered reveals
+- [ ] Cinematic hero
+- [ ] Animated Business-to-Technology diagram
+- [ ] Interactive expertise cards
+- [ ] Prominent AI-era capabilities section
+- [ ] Animated career timeline
+- [ ] Real selected projects
+- [ ] My working approach visualisation
+- [ ] Professional photo gallery
+- [ ] Embedded promotional YouTube video
+- [ ] Clickable phone number +94775559579
+- [ ] Working LinkedIn links
+- [ ] Education and professional qualifications
+- [ ] Responsive desktop and mobile design
+- [ ] Accessible navigation and controls
+- [ ] Reduced-motion support
+- [ ] Optimised images and animations
+- [ ] No fictional content or fabricated achievements
+- [ ] No broken assets or placeholder images
+- [ ] No unnecessary backend or AI API integration
+
+---
+
+# 32. FINAL CREATIVE DIRECTION
+
+The website should not look like a resume converted into a webpage.
+
+It should tell the story of a technology professional who works across business understanding, analytical thinking, product decisions, stakeholder collaboration, solution consulting, and project delivery.
+
+### The central professional narrative
+
+**Business Understanding**
+
+↓
+
+**Critical Thinking & Analysis**
+
+↓
+
+**Stakeholder Alignment**
+
+↓
+
+**Solution Definition**
+
+↓
+
+**Product & Delivery Coordination**
+
+↓
+
+**Validation & Business Value**
+
+This connected narrative should appear visually throughout the portfolio.
+
+### AI-era positioning
+
+Highlight that I bring skills such as:
+
+- Understanding business problems
+- Stakeholder management
+- Communication
+- Critical analysis
+- Solution thinking
+- Product judgement
+- Business process analysis
+- Pre-sales demonstrations
+- Client presentations
+- Collaboration
+- Delivery alignment
+- Requirements validation
+
+These capabilities help connect technology—including AI-enabled tools—to practical business needs and responsible delivery.
+
+### Final website identity
+
+**Premium Light Theme × Frosted Glass × Spring Motion × Scroll-Triggered Reveals × Cinematic Photography × Modern Editorial Design**
+
+### Most important instruction
+
+The website must clearly communicate:
+
+**Business-to-Technology Transformation Professional with strong experience across Business Analysis, Product Ownership, Project Delivery and Solution Consulting.**
+
+Make the result sophisticated, visually extraordinary, interactive, memorable, and professionally credible.
+
+**Build the complete working website now in Google AI Studio Build mode. Implement all sections, visuals, animations, photographs, the YouTube video, and contact details in this one request. Do not stop at a prototype or require another prompt to complete the work.**
